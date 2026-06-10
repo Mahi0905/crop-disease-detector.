@@ -4,7 +4,7 @@ from pathlib import Path
 
 BASE_DIR = Path(r"C:\Users\lenovo\Desktop\crop-disease-detector\crop-disease-detector")
 DATA_DIR = BASE_DIR / "data"
-TRAIN_DIR = DATA_DIR / "train"
+TRAIN_DIR = DATA_DIR / "train" 
 VAL_DIR = DATA_DIR / "val"
 VAL_RATIO = 0.2  # 20% for validation
 
