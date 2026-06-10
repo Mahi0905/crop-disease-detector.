@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 IMG_SIZE = 160
 BATCH_SIZE = 16
-EPOCHS = 7
+EPOCHS = 7 
 SEED = 123
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
